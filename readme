@@ -1,0 +1,9 @@
+This project is an exercise where I 
+1) Scrape https://www.classcentral.com/ pages, 1-level deep using httrack
+2) Use google translate api in python to translate website content to Hindi 
+3) rebuild the structure of the pages such that the translated content are hard-coded into the translated website 
+4) upload the translated-website into github (my choice of webserver)
+5) make sure all javascript/css/etc is loading correctly 
+6) make sure all buttons are clickable
+
+The end result can be accessed through the following link https://raniafleifel.github.io/www.classcentral.com/index.html
